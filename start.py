@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# Creator :  ./Rozhak
+# Creator :  FR13NDS
 
 from requests import ConnectionError
 from time import sleep
@@ -38,7 +38,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : ./Rozhak\n\t\t   Fb.com//Rozhak.id')
+                   '''+W+'Creator : FR13NDS\n\t\t   wa.com//085770555837')
                    
 def RupaRupa():
 	print
